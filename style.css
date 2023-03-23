@@ -50,7 +50,7 @@ p {
 	padding: 10px 30px;
 	color: white;
 	background-color: transparent;
-	border: 2px solid #2ABAB2;
+	border: 2px solid #0F0019;
 	font-size: 2rem;
 	text-transform: uppercase;
 	letter-spacing: 0.1rem;
@@ -60,7 +60,7 @@ p {
 }
 .cta:hover {
 	color: white;
-	background-color: #2ABAB2;
+	background-color: #0F0019;
 }
 .brand h1 {
 	font-size: 3rem;
@@ -68,7 +68,7 @@ p {
 	color: white;
 }
 .brand h1 span {
-	color: #2ABAB2;
+	color: #0F0019;
 }
 
 /* Header section */
@@ -140,7 +140,7 @@ p {
 	letter-spacing: initial;
 }
 #header .nav-list ul li:hover a {
-	color: #2ABAB2;
+	color: #0F0019;
 }
 #header .hamburger {
 	height: 60px;
