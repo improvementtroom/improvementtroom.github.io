@@ -60,7 +60,7 @@ p {
 }
 .cta:hover {
 	color: white;
-	background-color: #0F0019;
+	background-color: #9F0060;
 }
 .brand h1 {
 	font-size: 3rem;
@@ -82,7 +82,7 @@ p {
 }
 #header .header {
 	min-height: 8vh;
-	background-color: #0F0019;
+	background-color: #9F0060;
 	transition: 0.3s ease background-color;
 }
 #header .nav-bar {
@@ -97,7 +97,7 @@ p {
 #header .nav-list ul {
 	list-style: none;
 	position: absolute;
-	background-color: #0F0019;
+	background-color: #9F0060;
 	width: 100vw;
 	height: 100vh;
 	left: 100%;
@@ -140,7 +140,7 @@ p {
 	letter-spacing: initial;
 }
 #header .nav-list ul li:hover a {
-	color: #0F0019;
+	color: #9F0060;
 }
 #header .hamburger {
 	height: 60px;
