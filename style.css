@@ -42,7 +42,7 @@ p {
 	text-align: center;
 }
 .section-title span {
-	color: #0F0019;
+	color: #2ABAB2;
 }
 
 .cta {
@@ -50,7 +50,7 @@ p {
 	padding: 10px 30px;
 	color: white;
 	background-color: transparent;
-	border: 2px solid #0F0019;
+	border: 2px solid #2ABAB2;
 	font-size: 2rem;
 	text-transform: uppercase;
 	letter-spacing: 0.1rem;
@@ -60,7 +60,7 @@ p {
 }
 .cta:hover {
 	color: white;
-	background-color: #9F0060;
+	background-color: #2ABAB2;
 }
 .brand h1 {
 	font-size: 3rem;
@@ -82,7 +82,7 @@ p {
 }
 #header .header {
 	min-height: 8vh;
-	background-color: #9F0060;
+	background-color: #2ABAB2;
 	transition: 0.3s ease background-color;
 }
 #header .nav-bar {
@@ -97,7 +97,7 @@ p {
 #header .nav-list ul {
 	list-style: none;
 	position: absolute;
-	background-color: #9F0060;
+	background-color: #2ABAB2;
 	width: 100vw;
 	height: 100vh;
 	left: 100%;
@@ -140,7 +140,7 @@ p {
 	letter-spacing: initial;
 }
 #header .nav-list ul li:hover a {
-	color: #9F0060;
+	color: #2ABAB2;
 }
 #header .hamburger {
 	height: 60px;
@@ -312,7 +312,7 @@ p {
 	top: 0;
 	height: 100%;
 	width: 100%;
-	background-image: linear-gradient(60deg, #29323c 0%, #485563 100%);
+	background-image: linear-gradient(60deg, #2ABAB2 0%, #241478 100%);
 	opacity: 0.9;
 	z-index: -1;
 }
@@ -367,7 +367,7 @@ p {
 	align-items: flex-start;
 	justify-content: center;
 	flex-direction: column;
-	background-image: linear-gradient(60deg, #29323c 0%, #485563 100%);
+	background-image: linear-gradient(60deg, #2ABAB2 0%, #241478 100%);
 	color: white;
 }
 #projects .project-info h1 {
@@ -395,7 +395,7 @@ p {
 	top: 0;
 	height: 100%;
 	width: 100%;
-	background-image: linear-gradient(60deg, #29323c 0%, #485563 100%);
+	background-image: linear-gradient(60deg, #2ABAB2 0%, #241478 100%);
 	opacity: 0.7;
 }
 #projects .project-img img {
@@ -501,7 +501,7 @@ p {
 
 /* Footer */
 #footer {
-	background-color: #0F0019;
+	background-color: #2ABAB2;
 }
 #footer .footer {
 	min-height: 200px;
