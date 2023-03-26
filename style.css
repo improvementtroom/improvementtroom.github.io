@@ -203,7 +203,7 @@ p {
 	background-image: url(./img/bg.png);
 	background-size: cover;
 	background-position: top center;
-	position: right;
+	position: center;
 	z-index: 1;
 }
 #hero::after {
